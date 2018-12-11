@@ -51,7 +51,7 @@ Map - LinkedHashMap
 Map - ConcurrentHashMap
 ```
 
-3.1 List集合和Set集合
+3.1 List集合和Set集合 ---  12-11 22:27
 
 List中元素存取是有序的、可重复的；Set集合中元素是无序的，不可重复的。
 
